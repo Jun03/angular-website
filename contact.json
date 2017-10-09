@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "name":"Home",
+    "street":"17 Lokmanya Ganj Charbagh",
+    "city":"Lucknow",
+    "pin":226004
+  },
+  {
+    "id":1,
+    "name":"Home-2",
+    "street":"Alambagh ",
+    "city":"Lucknow",
+    "pin":226004
+  },
+  {
+    "id":1,
+    "name":"Office",
+    "street":"Hazrat Ganj",
+    "city":"Lucknow",
+    "pin":226004
+  }
+  
+  ]
