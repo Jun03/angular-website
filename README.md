@@ -3,4 +3,4 @@ A very simple and basic angular website which shows the use of models-controller
 
 view this live at :
 
-https://somber-vest.glitch.me
+https://jun-tech.glitch.me
